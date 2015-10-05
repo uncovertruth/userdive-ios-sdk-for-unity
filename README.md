@@ -1,0 +1,4 @@
+#About UNCOVER TRUTH
+
+UNCOVER TRUTH Inc. is the Japan No.1 UI/UX analytics and consulting company providing an analytics tool called "USERDIVE for Apps". In spite of launched service within a year, more 200 companies utilize this service to improve their UI/UX. Based on our achievements and experiences in Japan, we want to share our experiences to improve all companies who have problems with their UI/UX. Also, we want to make user-friendly services more and more in the world. USERDIVE for Apps is the best UI/UX analytics tool, which enables to confirm every single users' transition in all pages, content read during the stay, by HEAT MAPS, FUNNEL ANALYTICS and PLAY BACK. This UX analytics tool can achieve more effective improvements that are better than the pervious experiences of designers or developers.
+
