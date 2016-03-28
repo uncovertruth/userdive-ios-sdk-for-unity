@@ -1,5 +1,10 @@
 # CHANGES
 
+## 1.1.0
+
+* Upgraded Userdive for Apps SDK version to 1.2.0 from 1.1.0
+
+
 ## 1.0.0
 
 first unity plugin release.
